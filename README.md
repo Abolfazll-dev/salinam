@@ -20,5 +20,5 @@ ___
 Images
 
 ![Screens](https://s.cafebazaar.ir/images/upload/screenshot/com.example.salinam-910208434047.jpg?x-img=v1/format,type_webp,lossless_false/resize,h_600,lossless_false/optimize)
-![Screens](https://s.cafebazaar.ir/images/upload/screenshot/com.example.salinam-910208434047.jpg?x-img=v1/format,type_webp,lossless_false/resize,h_600,lossless_false/optimize)
+![Screens](https://s.cafebazaar.ir/images/upload/screenshot/com.example.salinam-383429119022.jpg?x-img=v1/format,type_webp,lossless_false/resize,h_600,lossless_false/optimize)
 ![Screens](https://s.cafebazaar.ir/images/upload/screenshot/com.example.salinam-383429119022.jpg?x-img=v1/format,type_webp,lossless_false/resize,h_600,lossless_false/optimize)
